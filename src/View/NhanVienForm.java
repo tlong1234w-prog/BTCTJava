@@ -230,4 +230,5 @@ public class NhanVienForm extends JPanel {
             JOptionPane.showMessageDialog(this, "Lỗi xóa: " + ex.getMessage());
         }
     }
+    .
 }
